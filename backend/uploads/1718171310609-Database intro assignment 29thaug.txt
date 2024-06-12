@@ -1,0 +1,39 @@
+1.What is the difference between web1.0 and web2.0?
+Ans:
+web1.0 is the first ever version of websites.web1.0 allows the owner of the web page to display contents to showcast,but it does not allows the user to interact with the webpages like giving user details or creating profile in the website.overall it is astatic website that only shows information.it can only be Read.
+web2.0 is the next version websites after web1.0. in 2.0 the use can interact with the websites by creating profile, giving and deleeting user details,profile. it is a dynamic webpage rather than a static one.it includes CRUD features (Create,Read,Update,Delete).
+
+2.3 advantages of using Database over file system for storing a applicatio's data
+
+Ans:
+*The file system does not allow sharing of data or sharing is too complex. Whereas in DBMS allows easy data sharing by using a  centralized system.
+
+* search operation performed on the file system needs a different application program. In DBMS user can use inbuilt searching operations. By  writing a small query  data can be retrieved from the database.
+
+*If systems crashed due to various reasons,there will be no recovery of the data that’s been lost. A DBMS will have the recovery manager which retrieves the data.
+
+
+3.What are the 2 primary ways of storing data in a computer?
+
+Ans:
+The two primary ways of storing data are 
+*storing in temporary memory(RAM).
+*storing in permamnent memory(SSD,HDD).
+
+
+4.What is SQL and what is a SQL database?
+
+Ans:
+*SQL stands for Structured Query Language, it is a command language used to perform operations over in a database.
+*SQL can insert data into database tables, modify data in existing database tables and delete data from SQL database tables. In addition, SQL can modify the database structure itself by creating, modifying, and deleting tables and other database objects.
+*SQL database is the set of data arranged in a order specifially based on the requirement of a user to use the data anytime in a systematic manner for efficient data usage created by using SQL.
+
+
+
+
+
+
+
+
+
+
